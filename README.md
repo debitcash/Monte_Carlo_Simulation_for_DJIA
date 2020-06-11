@@ -8,4 +8,4 @@ RunAlgorithm.py- the executable piece
 
 The results can be seen as follows on the picture
 
-/Results.png
+https://raw.githubusercontent.com/debitcash/Trading-robot/master/Results.png
